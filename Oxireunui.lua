@@ -1,7 +1,7 @@
 pcall(function()
     game:GetService("StarterGui"):SetCore("SendNotification", {
         Title = "Notification",
-        Text = "if coin collect not working switch server and don't open both collect coin at the same time enjoy.",
+        Text = "if coin collect not working go coin places till coin spawned in map and make your graphics higher enjoy.",
         Duration = 6
     })
 end)
